@@ -1,2 +1,0 @@
-# gitHubSearch
-Github search API
